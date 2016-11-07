@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GottaWatchIt</string>
+
+
+    <string name="title">title</string>
+    <string name="poster">poster</string>
+    <string name="plot">plot</string>
+    <string name="rating">rating</string>
+    <string name="release">release</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="key_pref">
+        <item>Popularity</item>
+        <item>Rating</item>
+        <item>Favourites</item>
+    </string-array>
+
+    <string-array name="key_values">
+        <item>popular</item>
+        <item>top_rated</item>
+        <item>favourites</item>
+    </string-array>
+    <string name="def_key">popular</string>
+    <string name="favs_key">favourites</string>
+    <string name="released">Released: </string>
+    <string name="rated">Rating: </string>
+    <string name="trailers">Trailers: </string>
+    <string name="reviews">Reviews: </string>
+    <string name="chooseMovie">Choose movie to see details</string>
+</resources>
